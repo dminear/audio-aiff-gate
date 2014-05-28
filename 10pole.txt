@@ -1,0 +1,21 @@
+Rectangular window FIR filter
+
+Filter type: LP
+Passband: 0 - 1814.06 Hz
+Order: 10
+Transition band: 736 Hz
+Stopband attenuation: 21 dB
+
+Coefficients:
+
+a[0] =	0.042927455
+a[1] =	0.038463343
+a[2] =	-0.08616211
+a[3] =	-0.04009163
+a[4] =	0.28133902
+a[5] =	0.48712626
+a[6] =	0.28133902
+a[7] =	-0.04009163
+a[8] =	-0.08616211
+a[9] =	0.038463343
+a[10] =	0.042927455
